@@ -3,7 +3,7 @@
 Lightning web component to merge 2 pdfs in Salesforce.
 
 
-<a href="https://githubsfdeploy.herokuapp.com/?owner=psagredo99&repo=mergePDFs&ref=mainn">
+<a href="https://githubsfdeploy.herokuapp.com/?owner=psagredo99&repo=mergePDFs&ref=main">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
